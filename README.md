@@ -4,7 +4,7 @@ webaudio-playground-demo
 Web Audio API Playground
 
 <p align="center" >
-  <img src="https://raw.github.com/SuriyaaKudoIsc/webaudio-playground-demo/images/afnetworking-logo.png" alt="webaudio-playground-demo" title="webaudio-playground-demo">
+  <img src="https://github.com/GoogleChrome/webaudio-playground-demo/blob/master/favicon.ico" alt="webaudio-playground-demo" title="webaudio-playground-demo">
 </p>
 
 [![Build Status](https://travis-ci.org/AFNetworking/AFNetworking.png?branch=master)](https://travis-ci.org/AFNetworking/AFNetworking)
